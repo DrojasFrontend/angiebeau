@@ -1,6 +1,6 @@
 <section class="section1">
   <div class="section1__wrapper">
-    <img class="img--1 visibleDesktop" src="<?php echo IMG_BASE . 'img-2.png'?>" alt="">
+    <img class="img--1" src="<?php echo IMG_BASE . 'img-2.png'?>" alt="">
     <img class="img--0 visibleMobile" src="<?php echo IMG_BASE . 'img-1-mobile.png'?>" alt="">
 
     <div class="box box--center" id="wedding">

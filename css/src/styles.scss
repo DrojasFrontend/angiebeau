@@ -508,12 +508,19 @@ body {
 					object-position: top;
 					z-index: -1;
 				}
+
 				&--1 {
+					position: absolute;
+					top: 100px;
+					left: 50%;
 					width: 300px;
-					margin: 0 auto;
+					margin-left: -150px;
 
 					@media only screen and (min-width: 1024px) {
+						position: relative;
+						left: inherit;
 						width: auto;
+						margin: 0 auto;
 					}
 				}
 
@@ -617,7 +624,7 @@ body {
 			}
 		}
 		&__wrapper {
-			margin-top: -400px;
+			margin-top: -750px;
 			padding: 90px 20px;
 			text-align: center;
 
@@ -1031,6 +1038,11 @@ body {
 			padding: 15px 15px 0;
 			text-align: center;
 
+			a {
+				color: var(--000);
+				text-decoration: none;
+			}
+
 			h2 {
 				position: relative;
 				min-height: 40px;
@@ -1254,6 +1266,7 @@ select,
 [type="date"] {
 	font-family: "Poppins", serif;
 	width: 100%;
+	min-width: -webkit-fill-available;
 	height: 40px;
 	padding: 0 20px;
 	font-size: 16px;
@@ -1342,7 +1355,7 @@ textarea {
 	display: block;
 	margin-bottom: 6px;
 	color: var(--000);
-	font-size: 10px;
+	font-size: 14px;
 	font-style: normal;
 	font-weight: 500;
 	line-height: normal;
