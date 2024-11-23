@@ -1,0 +1,11 @@
+$svn-font-path: "../../font/svn" !default;
+
+@font-face {
+	font-family: "SVN-Aire Pro";
+	src: url("#{$svn-font-path}/SVN-AirePro.woff2") format("woff2"),
+		url("#{$svn-font-path}/SVN-AirePro.woff") format("woff"),
+		url("#{$svn-font-path}/SVN-AirePro.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}

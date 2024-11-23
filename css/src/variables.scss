@@ -1,0 +1,407 @@
+:root {
+	--font-montserrat: "Montserrat", sans-serif;
+	--font-rodetta: "Rodetta";
+	--font-dating: "Dating";
+	--font-hello: "Hello";
+	--font-hatton: "PP Hatton";
+	--font-bacalisties: "Bacalisties";
+	--font-bosque: "BOSQUE";
+	--font-nesans: "NesansSemiBold";
+	--font-blancha: "Blancha";
+	--font-blancha: "Blancha";
+	--font-svn: "SVN-Aire Pro";
+	--font-claresta: "Claresta";
+	--FFF: #fff;
+	--000: #000;
+	--333: #333;
+	--FFF: #fff;
+	--666: #666;
+	--1D1D1B: #1d1d1b;
+	--A98417: #a98417;
+	--154B54: #154b54;
+	--E5DECE: #e5dece;
+	--545453: #545453;
+	--F3F0EB: #f3f0eb;
+}
+
+.font {
+	&--claresta {
+		font-family: var(--font-claresta);
+	}
+}
+
+.ls {
+}
+
+.color {
+	&--FFF {
+		color: var(--FFF) !important;
+	}
+	&--000 {
+		color: var(--000) !important;
+	}
+	&--333 {
+		color: var(--333) !important;
+	}
+	&--666 {
+		color: var(--666) !important;
+	}
+	&--A98417 {
+		color: var(--A98417) !important;
+	}
+	&--154B54 {
+		color: var(--154B54) !important;
+	}
+	&--545453 {
+		color: var(--545453) !important;
+	}
+}
+
+.heading {
+	&--14 {
+		font-size: 14px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		text-transform: uppercase;
+	}
+
+	&--16 {
+		font-size: 16px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 20px;
+		letter-spacing: 1.6px;
+	}
+
+	&--18 {
+		font-size: 18px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+	}
+
+	&--22 {
+		font-size: 22px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+	}
+
+	&--24 {
+		font-size: 20px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 24px;
+		}
+	}
+
+	&--26 {
+		font-size: 22px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		@media only screen and (min-width: 1024px) {
+			font-size: 26px;
+		}
+	}
+
+	&--28 {
+		font-size: 28px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 28px;
+	}
+
+	&--32 {
+		font-size: 24px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 32px;
+		}
+	}
+
+	&--36 {
+		font-size: 26px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 36px;
+		}
+	}
+
+	&--38 {
+		font-size: 28px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: 32px;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 38px;
+			line-height: 42px;
+		}
+	}
+
+	&--42 {
+		font-size: 26px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 42px;
+		}
+	}
+
+	&--48 {
+		font-size: 30px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 48px;
+		}
+	}
+
+	&--64 {
+		font-size: 44px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 64px;
+			line-height: normal;
+		}
+	}
+
+	&--132 {
+		font-size: 56px;
+		font-style: normal;
+		font-weight: 400;
+		line-height: normal;
+		letter-spacing: 13.2px;
+
+		@media only screen and (min-width: 1024px) {
+			font-size: 132px;
+			line-height: 130px;
+			letter-spacing: 13.2px;
+		}
+	}
+}
+
+.spacing {
+	&--0 {
+		letter-spacing: normal !important;
+	}
+
+	&--13 {
+		letter-spacing: 1.32px;
+	}
+
+	&--18 {
+		letter-spacing: 1.8px;
+	}
+
+	&--19 {
+		letter-spacing: 1.92px;
+	}
+
+	&--22 {
+		letter-spacing: 2.2px;
+	}
+
+	&--24 {
+		letter-spacing: 1.4px;
+		@media only screen and (min-width: 1024px) {
+			letter-spacing: 2.4px;
+		}
+	}
+
+	&--26 {
+		letter-spacing: 2.6px;
+	}
+
+	&--38 {
+		letter-spacing: 3.8px;
+	}
+
+	&--42 {
+		letter-spacing: 4.2px;
+	}
+
+	&--48 {
+		letter-spacing: 2.8px;
+
+		@media only screen and (min-width: 1024px) {
+			letter-spacing: 4.8px;
+		}
+	}
+
+	&--56 {
+		letter-spacing: 5.6px;
+	}
+
+	&--64 {
+		letter-spacing: 2.4px;
+
+		@media only screen and (min-width: 1024px) {
+			letter-spacing: 6.4px;
+		}
+	}
+}
+
+.stroke {
+	&--0 {
+		-webkit-text-stroke-width: 0.3px;
+	}
+
+	&--1 {
+		-webkit-text-stroke-width: 1px;
+	}
+
+	&--2 {
+		-webkit-text-stroke-width: 2px;
+	}
+}
+
+.button {
+	font-family: inherit;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: max-content;
+	padding: 11px 44px 4px 44px;
+	text-align: center;
+	-webkit-text-stroke-width: 1px;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	letter-spacing: 2.6px;
+	text-transform: uppercase;
+	text-decoration: none;
+	border-radius: 50px;
+	background-color: transparent;
+
+	@media only screen and (min-width: 1024px) {
+		font-size: 26px;
+	}
+
+	&--center {
+		margin: 0 auto;
+	}
+
+	&--primary {
+		color: var(--A98417);
+		border: 1px solid var(--A98417);
+
+		@media only screen and (min-width: 1024px) {
+		}
+	}
+
+	&--small {
+		font-family: var(--font-nesans);
+		padding: 6px 22px;
+		font-size: 12px;
+		font-style: normal;
+		font-weight: 600;
+		line-height: normal;
+		letter-spacing: 1.2px;
+		border: 1px solid var(--154B54);
+	}
+}
+
+.space {
+	display: block;
+	width: 100%;
+
+	&--10 {
+		height: 10px;
+	}
+
+	&--20 {
+		height: 20px;
+	}
+
+	&--30 {
+		height: 30px;
+	}
+
+	&--40 {
+		height: 40px;
+	}
+
+	&--50 {
+		height: 50px;
+	}
+
+	&--200 {
+		height: 80px;
+
+		@media only screen and (min-width: 1024px) {
+			height: 200px;
+		}
+	}
+}
+
+.line {
+	display: block;
+
+	&--small {
+		width: 85px;
+		height: 2px;
+		margin: 0 auto;
+		background-color: var(--154B54);
+	}
+
+	&--left {
+		margin: 0;
+	}
+}
+
+.grid {
+	display: grid;
+
+	&--2 {
+		@media only screen and (min-width: 1024px) {
+			grid-template-columns: repeat(2, 1fr);
+		}
+	}
+}
+
+.text {
+	&--center {
+		text-align: center;
+	}
+
+	&--left {
+		text-align: left;
+	}
+
+	&--right {
+		text-align: right;
+	}
+}
+
+.visibleDesktop {
+	display: none;
+	@media only screen and (min-width: 1024px) {
+		display: block;
+	}
+}
+
+.visibleMobile {
+	@media only screen and (min-width: 1024px) {
+		display: none;
+	}
+}
