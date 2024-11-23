@@ -1,4 +1,5 @@
 <secion class="section2" id="events">
+  <img class="img--1 visibleMobile" src="<?php echo IMG_BASE . 'img-4.webp'?>" alt="">
   <div class="section2__wrapper">
     <h2 class="heading--64 color--154B54 spacing--64 stroke--2" style="line-height: 0">EVENTOS</h2>
     <p class="font--claresta heading--64 color--154B54">events</p>
@@ -41,7 +42,7 @@
         <p class="heading--32 color--000 stroke--0 spacing--19">EL BARÓN CAFÉ</p>
         <p class="heading--22 color--000 stroke--0 spacing--13">CARTAGENA</p>
 
-        <a href="#" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
+        <a href="https://maps.app.goo.gl/tzrGNATHuuJf1pDu9" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
         <span class="space space--10"></span>
 
         <p class="heading--22 color--A98417 stroke--0 spacing--13"> NIÑOS INCLUÍDOS</p>

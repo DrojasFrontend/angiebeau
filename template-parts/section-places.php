@@ -557,11 +557,12 @@ $places = [
 ?>
 
 <section class="sectionCartagena">
-    <img class="sectionCartagena__img" src="<?php echo IMG_BASE . 'img-6.webp'?>" alt="">
+    <img class="sectionCartagena__img visibleDesktop" src="<?php echo IMG_BASE . 'img-6.webp'?>" alt="">
+    <img class="sectionCartagena__img visibleMobile" src="<?php echo IMG_BASE . 'img-6-mobile.png'?>" alt="">
     <div class="">
         <div class="sectionCartagena__wrapper">
             <div class="sectionCartagena__title">
-                <img class="" src="<?php echo IMG_BASE . 'cartagena.svg'?>" alt="">
+                <img class="visibleDesktop" src="<?php echo IMG_BASE . 'cartagena.svg'?>" alt="">
                 <span class="space space--50"></span>
                 <span class="space space--50 visibleDesktop"></span>
                 <span class="space space--50 visibleDesktop"></span>

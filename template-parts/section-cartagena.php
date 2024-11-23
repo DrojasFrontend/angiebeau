@@ -73,6 +73,7 @@ $places = [
 ?>
 
 <section class="section4" id="cartagena">
+  <img class="img--0 visibleMobile" src="<?php echo IMG_BASE . 'img-5.webp'?>" alt="">
   <div class="section4__wrapper">
     <div class="text--center">
       <img class="img--1" src="<?php echo IMG_BASE . 'cartagena.svg' ?>" alt="">
