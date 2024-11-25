@@ -15,9 +15,9 @@
       <p class="heading--36 color--000 spacing--36 stroke--0">CAMATAJUA BARÚ HOUSE</p>
       <p class="heading--24 color--000 spacing--24 stroke--0">BARÚ, CARTAGENA DE INDIAS</p>
       <p class="heading--26 color--A98417 spacing--26 stroke--1">PUNTO DE ENCUENTRO:</p>
-      <p class="heading--24 color--000 spacing--24 stroke--0">PENDIENTE</p>
+      <p class="heading--24 color--000 spacing--24 stroke--0">BÓVEDAS DEL HOTEL SANTA CLARA</p>
       <p class="heading--24 color--000 spacing--24 stroke--0">HORA RECOGIDA: 2:30 P.M.</p>
-      <a href="https://maps.app.goo.gl/VkQVnF18vd9mbtRD9" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
+      <a href="https://maps.app.goo.gl/whsUThqccAWNGNr76" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
       <span class="space space--30"></span>
       <p class="heading--36 color--154B54 spacing--36 stroke--1">DRESS CODE:</p>
       <button class="button button--primary button--center" data-open-modal="modal-1">VER</button>

@@ -10,7 +10,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-          <img class="modal-image" src="<?php echo IMG_BASE . 'dresscode-angie-y-beau-2.webp' ?>" alt="" id="" />
+          <img class="modal-image" src="<?php echo IMG_BASE . 'dresscode-angie-y-beau-new.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>
@@ -25,7 +25,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-        <img class="modal-image" src="<?php echo IMG_BASE . 'dresscode-angie-y-beau-1.webp' ?>" alt="" id="" />
+        <img class="modal-image" src="<?php echo IMG_BASE . 'dresscode-angie-y-beau-playa-new.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>
@@ -39,7 +39,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-        <img class="modal-image" src="<?php echo IMG_BASE . 'dresscode-angie-y-beau-.webp' ?>" alt="" id="" />
+        <img class="modal-image" src="<?php echo IMG_BASE . 'dresscode-angie-y-beau-cocktel-new.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>
@@ -53,7 +53,7 @@
             display_icon($icon_name); 
         ?>
         </button>
-        <img class="modal-image" src="<?php echo IMG_BASE . 'img-3.webp' ?>" alt="" id="" />
+        <img class="modal-image" src="<?php echo IMG_BASE . 'dresscode-angie-y-beau-playa-new.webp' ?>" alt="" id="" />
       </div>
     </div>
   </section>

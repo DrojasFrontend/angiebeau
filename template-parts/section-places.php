@@ -8,6 +8,14 @@ $places = [
     "img" => IMG_BASE . 'icon-hotels.svg',
     "places" => [
         [
+            "name" => "HOTEL LAS AMÉRICAS",
+            "address" => "Anillo Vial, Sector, Cielo mar",
+            "city" => "Cartagena, Colombia",
+            "phone" => "+57 (605) 6724242",
+            "link" => "https://www.hotellasamericas.com.co",
+            "image" => IMG_BASE . 'places-cartagena/hoteles-14.webp',
+        ],
+        [
             "name" => "Hyatt Regency Hotel",
             "address" => "Cra. 1 # 12 - 118",
             "city" => "Cartagena, Colombia",

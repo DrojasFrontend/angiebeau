@@ -688,6 +688,13 @@ body {
 				text-decoration: none;
 			}
 		}
+
+		.heading--14 {
+			font-size: 9px;
+			@media only screen and (min-width: 1024px) {
+				font-size: 14px;
+			}
+		}
 	}
 
 	&4 {
@@ -964,13 +971,18 @@ body {
 				object-fit: cover;
 				object-position: left;
 				height: auto;
-				padding: 250px 0 100px;
+				padding: 0 0 100px;
 			}
 		}
 
 		&__title {
 			width: 100%;
 			text-align: center;
+			@media only screen and (min-width: 1024px) {
+				display: grid;
+				place-content: center;
+				padding-top: 150px;
+			}
 
 			img {
 				width: 300px;

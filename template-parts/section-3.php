@@ -5,13 +5,13 @@
       <p class="heading--18 color--0 stroke--0 spacing--18">
         Por favor conﬁrmar asistencia antes 30 de ENERO del 2025
         <br class="visibleDesktop">
-        Kindly respond by JANUARY 1st, 2025
+        Kindly respond by JANUARY 30th, 2025
       </p>
       <span class="space space--20"></span>
       <?php echo do_shortcode('[contact-form-7 id="7700a60" title="R.S.V.P"]'); ?>
   
       <p class="heading--14 color--000 stroke--0 spacing--56">Más Información/MORe INFORMATiON</p>
-      <p class="heading--14 color--000 stroke--0 spacing--56">TEL: 00 000 0000000 <br class="visibleMobile"> / RSVP@DOMINIO.com</p>
+      <p class="heading--14 color--000 stroke--0 spacing--56">TEL: +1 (917) 295-4876 <br class="visibleMobile"> / rsvp@angieybeauwedding.com</p>
     </div>
   </div>
 </section>
