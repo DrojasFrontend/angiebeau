@@ -38,11 +38,11 @@
         <span class="space space--40"></span>
         <p class="heading--22 color--000 stroke--0 spacing--13">MIÉRCOLES/WEDNESDAY</p>
         <p class="heading--32 color--000 stroke--0 spacing--19">20 de AGO, 2025</p>
-        <p class="heading--32 color--000 stroke--0 spacing--19">4:30 - 6:00 P.M.</p>
-        <p class="heading--32 color--000 stroke--0 spacing--19">EL BARÓN CAFÉ</p>
+        <p class="heading--32 color--000 stroke--0 spacing--19">5:30 - 7:30 P.M.</p>
+        <p class="heading--32 color--000 stroke--0 spacing--19">MIRADOR GASTRO BAR</p>
         <p class="heading--22 color--000 stroke--0 spacing--13">CARTAGENA</p>
 
-        <a href="https://maps.app.goo.gl/tzrGNATHuuJf1pDu9" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
+        <a href="https://maps.app.goo.gl/3kAipfCFp74RCRnt9" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
         <span class="space space--10"></span>
 
         <p class="heading--22 color--A98417 stroke--0 spacing--13"> NIÑOS INCLUÍDOS</p>
