@@ -19,7 +19,7 @@
         <p class="heading--32 color--000 stroke--0 spacing--19">9:00 A.M.</p>
         <p class="heading--32 color--000 stroke--0 spacing--19">FENIX BEACH</p>
         <p class="heading--22 color--000 stroke--0 spacing--13">CARTAGENA</p>
-        <p style="font-size: 24px;">Punto de encuentro muelle La Bodeguita puerta 1</p>
+        <p style="font-size: 24px;line-height: 21px;">Punto de encuentro muelle La Bodeguita puerta 1</p>
         <span class="space space--10"></span>
         <a href="https://maps.app.goo.gl/aqdpkEAfR4CWY5v68" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
         <span class="space space--10"></span>
@@ -68,7 +68,7 @@
         <p class="heading--32 color--000 stroke--0 spacing--19">8:00 A.M.</p>
         <p class="heading--32 color--000 stroke--0 spacing--19">PASEO POR LAS ISLAS DEL ROSARIO Y CHOLÓN</p>
         <p class="heading--22 color--000 stroke--0 spacing--13">CARTAGENA</p>
-        <p style="font-size: 24px;">Punto de encuentro muelle de Marina Todo Mar</p>
+        <p style="font-size: 24px;line-height: 21px;">Punto de encuentro muelle de Marina Todo Mar</p>
         <span class="space space--10"></span>
         <a href="https://maps.app.goo.gl/BgWk3vw2fhPB9sqE7" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
         <span class="space space--10"></span>
