@@ -16,11 +16,16 @@
         <span class="space space--40"></span>
         <p class="heading--22 color--000 stroke--0 spacing--13">MARTES/TUESDAY</p>
         <p class="heading--32 color--000 stroke--0 spacing--19">19 de AGO, 2025</p>
-        <p class="heading--32 color--000 stroke--0 spacing--19">8:00 A.M.</p>
-        <p class="heading--32 color--000 stroke--0 spacing--19">PENDIENTE</p>
+        <p class="heading--32 color--000 stroke--0 spacing--19">9:00 A.M.</p>
+        <p class="heading--32 color--000 stroke--0 spacing--19">FENIX BEACH</p>
         <p class="heading--22 color--000 stroke--0 spacing--13">CARTAGENA</p>
+        <p style="font-size: 17px;">Punto de encuentro muelle La Bodeguita puerta 1</p>
 
-        <a href="#" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
+        <a href="https://maps.app.goo.gl/aqdpkEAfR4CWY5v68" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
+        <span class="space space--10"></span>
+        <a href="https://drive.google.com/file/d/1Z2hdXHW9V5NL7daq-bs_lQgNMufIjpcG/view?usp=sharing" class="button button--primary button--center" target="_blank">INFO PASADÍA</a>
+        <span class="space space--10"></span>
+        <a href="tel:573165236508" class="button button--primary button--center" target="_blank">RESERVAS</a>
         <span class="space space--10"></span>
 
         <p class="heading--22 color--A98417 stroke--0 spacing--13"> NIÑOS INCLUÍDOS</p>
@@ -61,10 +66,11 @@
         <p class="heading--22 color--000 stroke--0 spacing--13">SÁBADO/SATURDAY</p>
         <p class="heading--32 color--000 stroke--0 spacing--19">23 de AGO, 2025</p>
         <p class="heading--32 color--000 stroke--0 spacing--19">8:00 A.M.</p>
-        <p class="heading--32 color--000 stroke--0 spacing--19">PENDIENTE</p>
+        <p class="heading--32 color--000 stroke--0 spacing--19">PASEO POR LAS ISLAS DEL ROSARIO Y CHOLÓN</p>
         <p class="heading--22 color--000 stroke--0 spacing--13">CARTAGENA</p>
+        <p style="font-size: 17px;">Punto de encuentro muelle de Marina Todo Mar</p>
 
-        <a href="#" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
+        <a href="https://maps.app.goo.gl/BgWk3vw2fhPB9sqE7" class="button button--primary button--center" target="_blank">UBICACIÓN</a>
         <span class="space space--10"></span>
 
         <p class="heading--22 color--A98417 stroke--0 spacing--13">SOLO ADULTOS</p>
